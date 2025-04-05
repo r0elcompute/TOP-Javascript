@@ -1,2 +1,2 @@
 # TOP-Javascript
-Repo containing The Odin Project exercises and projects
+Repo containing The Odin Project's Javascript exercises and projects
